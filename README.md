@@ -13,5 +13,3 @@
 
 - [pokemon fan game](https://fb.com.br)
 - [turn based game code monkey](https://www.google.com.br)
-
-taashjdsaodsajokn

@@ -40,7 +40,5 @@ if place_meeting(x, y+sign(_direction_y)*move_speed, obj_wall){
 } else {
 	_speed_y = lengthdir_y(_key_move*move_speed, _key_dir);
 }
-//show_debug_message(_speed_x);
-//show_debug_message(_speed_y);
 x += _speed_x;
 y += _speed_y;
